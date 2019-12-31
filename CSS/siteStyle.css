@@ -1,6 +1,3 @@
-/*Google Fonts*/
-
-@import url('https://fonts.googleapis.com/css?family=IM+Fell+Double+Pica&display=swap');
 
 
 body {
@@ -116,7 +113,7 @@ h1 {
 }
 
 h2 {
-    font-family: Viner Hand ITC, VinerBackup;
+    font-family:  VinerBackup;
     text-align: center;
     font-weight: 600;
     font-size: 50px;
