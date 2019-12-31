@@ -1,3 +1,8 @@
+/*Google Fonts*/
+
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+Double+Pica&display=swap');
+
+
 body {
     background-image: url("../images/background.png");
     background-repeat: no-repeat;
@@ -111,7 +116,7 @@ h1 {
 }
 
 h2 {
-    font-family: Viner Hand ITC, cursive;
+    font-family: Viner Hand ITC, VinerBackup;
     text-align: center;
     font-weight: 600;
     font-size: 50px;
@@ -131,6 +136,12 @@ h3 {
 @font-face {
     font-family: typeWritter;
     src: url(../fonts/american-typewriter-regular.ttf);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: VinerBackup;
+    src: url(../fonts/VINERITC.TTF);
     font-weight: normal;
 }
 
